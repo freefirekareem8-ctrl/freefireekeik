@@ -193,7 +193,7 @@ if os.path.exists(LIKE_LIMIT_FILE):
 else:
     like_limit = {}
 
-admin_uid = "8173310382"
+admin_uid = "2276483300"
 ToKen = None
 region = None
 
@@ -302,8 +302,8 @@ async def GeNeRaTeAccEss(uid, password):
         "Accept-Encoding": "gzip, deflate, br",
         "Connection": "close"}
     data = {
-        "uid": 8069003339,
-        "password": "75130036A3B6818C013919FFF2A4F85DC0F5D9FB8A29B0A1830683791111AE63",
+        "uid": 8208937118,
+        "password": "8FED5C22A3549C3DB2A8E2189B906474D2EB18D359BA6FA67986EA3B0C0C2C72",
         "response_type": "token",
         "client_type": "2",
         "client_secret": "2ee44819e9b4598845141067b281621874d0d5d7af9d8f7e00c1e54715b7d1e3",
